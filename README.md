@@ -17,3 +17,9 @@ Folder - lesson-2
 Lesson name - Уроки MySQL | Как создать таблицу. Mysqli, PDO.<br/>
 [Youtube link](https://youtu.be/w1n9eMgbyGQ)<br/>
 Folder - lesson-3
+
+### Lesson 4
+
+Lesson name - Уроки MySQL | Как добавить данные в таблицу. PDO, mysqli.<br/>
+[Youtube link](https://youtu.be/MGvppL0LbF0)<br/>
+Folder - lesson-4
