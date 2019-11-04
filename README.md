@@ -2,8 +2,6 @@
 
 ### Lesson 1
 
-Lesson name - Уроки MySQL | Введение. Как подключить базу данных
-
-[Youtube link](https://youtu.be/pU2jXzPqqgk)
-
+Lesson name - Уроки MySQL | Введение. Как подключить базу данных<br />
+[Youtube link](https://youtu.be/pU2jXzPqqgk)<br />
 Folder - lesson-1
