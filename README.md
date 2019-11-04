@@ -11,3 +11,9 @@ Folder - lesson-1
 Lesson name - Уроки MySQL | Как создать базу данных mysql<br/>
 [Youtube link](https://youtu.be/iig9GSr1Fek)<br/>
 Folder - lesson-2
+
+### Lesson 3
+
+Lesson name - Уроки MySQL | Как создать таблицу. Mysqli, PDO.<br/>
+[Youtube link](https://youtu.be/w1n9eMgbyGQ)<br/>
+Folder - lesson-3
