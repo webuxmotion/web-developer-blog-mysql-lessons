@@ -29,3 +29,9 @@ Folder - lesson-4
 Lesson name - Уроки MySQL | Как получить последний id. Auto Increment. PDO.<br/>
 [Youtube link](https://youtu.be/ikcYg8uJ9To)<br/>
 Folder - lesson-5
+
+### Lesson 6
+
+Lesson name - Уроки MySQL | Как добавить несколько записей.Insert into. PDO<br/>
+[Youtube link](https://youtu.be/mgGZM1oN7cE)<br/>
+Folder - lesson-6
