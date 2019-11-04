@@ -23,3 +23,9 @@ Folder - lesson-3
 Lesson name - Уроки MySQL | Как добавить данные в таблицу. PDO, mysqli.<br/>
 [Youtube link](https://youtu.be/MGvppL0LbF0)<br/>
 Folder - lesson-4
+
+### Lesson 5
+
+Lesson name - Уроки MySQL | Как получить последний id. Auto Increment. PDO.<br/>
+[Youtube link](https://youtu.be/ikcYg8uJ9To)<br/>
+Folder - lesson-5
