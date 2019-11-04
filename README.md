@@ -8,7 +8,6 @@ Folder - lesson-1
 
 ### Lesson 2
 
-Lesson name - Уроки MySQL | Как создать базу данных mysql 
-
-[Youtube link](https://youtu.be/iig9GSr1Fek)
+Lesson name - Уроки MySQL | Как создать базу данных mysql<br/>
+[Youtube link](https://youtu.be/iig9GSr1Fek)<br/>
 Folder - lesson-2
