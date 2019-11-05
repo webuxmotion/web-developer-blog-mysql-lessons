@@ -53,3 +53,9 @@ Folder - lesson-8
 Lesson name - Уроки MySQL | Удаление данных. DELETE. PDO<br/>
 [Youtube link](https://youtu.be/OrMD0cGJJvo)<br/>
 Folder - lesson-9
+
+### Lesson 10
+
+Lesson name - Уроки PHP + MySQL |Как сделать форму отправки сообщения. PDO<br/>
+[Youtube link](https://youtu.be/C2KrafKxH3c)<br/>
+Folder - lesson-10
