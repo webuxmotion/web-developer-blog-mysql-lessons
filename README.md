@@ -47,3 +47,9 @@ Folder - lesson-7
 Lesson name - Уроки MySQL | Обновление данных. UPDATE. MySQLi<br/>
 [Youtube link](https://youtu.be/L6rt0HDu2aA)<br/>
 Folder - lesson-8
+
+### Lesson 9
+
+Lesson name - Уроки MySQL | Удаление данных. DELETE. PDO<br/>
+[Youtube link](https://youtu.be/OrMD0cGJJvo)<br/>
+Folder - lesson-9
