@@ -35,3 +35,9 @@ Folder - lesson-5
 Lesson name - Уроки MySQL | Как добавить несколько записей.Insert into. PDO<br/>
 [Youtube link](https://youtu.be/mgGZM1oN7cE)<br/>
 Folder - lesson-6
+
+### Lesson 7
+
+Lesson name - Уроки MySQL | Выборка данных.SELECT. Условия в SQL.<br/>
+[Youtube link](https://youtu.be/QRkQ9m-BB8k)<br/>
+Folder - lesson-7
