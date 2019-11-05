@@ -41,3 +41,9 @@ Folder - lesson-6
 Lesson name - Уроки MySQL | Выборка данных.SELECT. Условия в SQL.<br/>
 [Youtube link](https://youtu.be/QRkQ9m-BB8k)<br/>
 Folder - lesson-7
+
+### Lesson 8
+
+Lesson name - Уроки MySQL | Обновление данных. UPDATE. MySQLi<br/>
+[Youtube link](https://youtu.be/L6rt0HDu2aA)<br/>
+Folder - lesson-8
